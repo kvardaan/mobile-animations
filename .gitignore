@@ -38,3 +38,6 @@ app-example
 
 # Visual Studio Code config dir
 .vscode
+
+android
+ios
