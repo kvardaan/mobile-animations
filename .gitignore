@@ -34,7 +34,8 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
-app-example
-
 # Visual Studio Code config dir
 .vscode
+
+android
+ios
